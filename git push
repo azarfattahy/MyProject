@@ -1,0 +1,61 @@
+[33mcommit 79ff2a908bd9410e08ba99c374d5d52ad6dcf09c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: azar <azarfttahy96@gmail.com>
+Date:   Sun Jul 19 21:31:28 2026 +0330
+
+    Initial HTML commit
+
+[33mcommit 8c5db45f84ae339b32971a33d90308a6c5c7a7bf[m
+Author: azar <azarfttahy96@gmail.com>
+Date:   Sun Jul 19 20:59:53 2026 +0330
+
+    first commit
+
+[33mcommit 6557a172419fd4fcc204bdfdaa662465c1313bec[m
+Merge: 7409528 a5f0634
+Author: azar <azarfttahy96@gmail.com>
+Date:   Tue Dec 30 18:55:20 2025 +0330
+
+    First session of python finished.
+
+[33mcommit a5f06340dc4df7e0fa4877a12ae7165325f6d42c[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: azar <azarfttahy96@gmail.com>
+Date:   Tue Dec 30 18:37:51 2025 +0330
+
+    First session of python finished.
+
+[33mcommit 7409528d33ce6bad99481bf0a7eb3b67c813b1ea[m
+Author: azar <azarfttahy96@gmail.com>
+Date:   Sat Dec 27 23:04:36 2025 +0330
+
+    file.addad
+
+[33mcommit 835636861be5b9373d3112f8ab064fde371e1f84[m
+Merge: cda17ed 911bcd4
+Author: azar <azarfttahy96@gmail.com>
+Date:   Sat Dec 27 21:13:55 2025 +0330
+
+    Merge branch 'develop'
+
+[33mcommit 911bcd4016484b40741f100456f71c28844da250[m
+Author: azar <azarfttahy96@gmail.com>
+Date:   Sat Dec 27 21:10:24 2025 +0330
+
+    file azar.txt added
+
+[33mcommit cda17ed5545ec66a0d03a65f7d4a8470835afb04[m
+Author: azarfattahy <azarfttahy96@gmail.com>
+Date:   Sat Dec 27 20:02:18 2025 +0330
+
+    Create test.txt
+
+[33mcommit 1005891b7f87ba2c0ed5d466ad517694b2b64343[m
+Author: azarfattahy <azarfttahy96@gmail.com>
+Date:   Thu Dec 18 17:58:35 2025 +0330
+
+    Update README.md
+
+[33mcommit 9b2c5776d0c836604e2675c1e849f08cb0a54b48[m
+Author: azarfattahy <azarfttahy96@gmail.com>
+Date:   Thu Dec 18 17:46:02 2025 +0330
+
+    Initial commit
