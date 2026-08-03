@@ -1,0 +1,27 @@
+@charset "utf-8";
+header,footer{
+    background-color: red;
+    height: 150px;
+    //color: aqua; 
+}
+footer{
+ color: #640805;
+ background-color:bisque;
+ text-align: center;
+ font-size: 45px;
+font-style: italic;
+ //height: 220px;
+}
+//div{
+    background-color: #640805;
+}
+#academy{
+    background-color: magenta;
+    color: aqua;
+}
+.style1{
+background-color: cadetblue;
+}
+.style2{
+background-color: chocolate;
+}
