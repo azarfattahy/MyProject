@@ -1,0 +1,29 @@
+@charset "utf-8";
+.reddiv{
+background-color: red;
+width: 60%;
+height: 200px;
+float:right;
+}
+.bluediv{
+background-color: blue;
+width: 40%;
+height: 200px;
+float:left;
+}
+.greendiv{
+background-color: green;
+width: 70%;
+height: 200px;
+clear: both;
+//float:right;
+}
+.yellowdiv{
+background-color: yellow;
+width: 150px;
+height: 150px;
+margin: 20px 100px 60px 90px;
+padding: 50px;
+border: 20px solid black;
+border-bottom-color: cyan;
+}
