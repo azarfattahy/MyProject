@@ -1,0 +1,30 @@
+@charset "utf-8";
+ul{
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+    width: 250px;
+    border: 1px solid #000;
+    position: fixed;
+    height: 100%;
+    font-family: tahoma;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding-bottom: 20px;
+    //margin: 5px;
+}
+li a:hover{
+    background-color: darkblue;
+    color: white;
+}
+li{
+    border-bottom: 2px solid #000000;
+    
+}
+li:last-child{
+    border-bottom: none;
+}
