@@ -1,0 +1,24 @@
+@charset "utf-8";
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #B7B5B5;
+    overflow: hidden;
+    position: fixed;
+    //bottom: 0;
+    top: 0;
+    width: 100%;
+}
+li{
+    float: left;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+}
+li a:hover{
+    background-color: #808080;
+}
