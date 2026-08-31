@@ -1,0 +1,13 @@
+@charset "utf-8";
+div{
+    column-count:5;
+    column-gap:30px;
+    column-width:15opx;
+    column-rule:2px dotted red;
+  //column-rule-style:solid;
+ // column-rule-width:4px;
+  //column-rule-color:green;
+
+
+
+}
